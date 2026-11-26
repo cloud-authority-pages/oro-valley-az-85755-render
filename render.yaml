@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: oro-valley-az-85755
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
