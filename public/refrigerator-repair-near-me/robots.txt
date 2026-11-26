@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oro-valley-az-85755.onrender.com/sitemap.xml
+Sitemap: https://oro-valley-az-85755.onrender.com/refrigerator-repair-near-me/sitemap.xml
